@@ -60,7 +60,7 @@ import { AppState } from './app.service';
 })
 export class AppComponent implements OnInit {
   public eLogo = 'assets/img/e-avatar.png';
-  public name = 'Angular 2 Webpack Starter';
+  public name = 'Angular 2';
   public url = 'https://twitter.com/eventapture';
 
   constructor(
